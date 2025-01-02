@@ -1,6 +1,6 @@
 
 
-<h2>Hi 👋, I'm Aoudumber/h2>
+<h2>Hi 👋, I'm Aoudumber</h2>
 <h3>who loves programming</h3>
 
 - 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
@@ -16,7 +16,7 @@
 <h3>Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,nodejs,postman,tailwind,vscode,visualstudio,vercel,vite,styledcomponents,powershell,mysql,md,express,bun,npm,vitest"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,nodejs,postman,tailwind,vscode,visualstudio,vercel,vite,powershell,mysql,md,express,bun,npm,vitest"/>
 </p>
 
 
