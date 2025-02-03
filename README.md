@@ -57,7 +57,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
 
 - [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/) 📌 2024-03-04 —— 2024-08-28
   - Position: Full Stack Developer
