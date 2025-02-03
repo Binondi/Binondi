@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Xiao Sun wishes you a great day!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Inter+Code&pause=1000&width=635&lines=console.log(%22Hello%2C%20World%22);Aoudumber wishes you a great day!&center=true&size=27" />
     </a>
   </div>
 
@@ -19,22 +19,21 @@
 
   <!-- profile logo -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-WeChat-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a>&emsp;
+    <a href="https://www.instagram.com/aoudumbersbade/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
+    <a href="https://twitter.com/aoudumberbade"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@toxicprogrammer69"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
+    <a href="https://aoudumbar.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://wakatime.com/@aoudumberbade"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
   </div>
 
   <!-- Snake Code Contribution Map -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -59,21 +58,21 @@
 
 <img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
 
-- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/) 📌 2024
+- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2024
   - Position: Full Stack Developer
   - Responsibilities: development and maintenance
   - TechStack: HTML, CSS, JS, PHP, MySQL
 
-<img align="right" width="88" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png](https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png)" />
+<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
 
-- [My Personal Portfolio](https://aoudumbar.netlify.app/) 📌 2025
+- [My Personal Portfolio](https://aoudumbar.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
   - Position: Mern Developer
   - Responsibilities: Various tasks
   - Techstack: MERN
 
-<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
+<img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
 
-- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/) 📌 2023
+- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
   - Position: Website Developer
   - Responsibilities: Creating a fully responsive website with backend and frontend
   - Techstack: HTML, CSS, JS, PHP, MYSQL
@@ -172,12 +171,12 @@ Mac                      16 hrs 22 mins      ███████████�
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -189,25 +188,25 @@ Mac                      16 hrs 22 mins      ███████████�
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aoudumber-Bade&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aoudumber-Bade&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aoudumber-Bade&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
+<img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aoudumber-Bade&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aoudumber-Bade&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aoudumber-Bade&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
@@ -215,22 +214,22 @@ Mac                      16 hrs 22 mins      ███████████�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
   
 <!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=Aoudumber-Bade&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aoudumber-Bade&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aoudumber-Bade&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 <!-- Wakatime Graph-->
 <table>
@@ -243,12 +242,12 @@ Mac                      16 hrs 22 mins      ███████████�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
@@ -301,70 +300,70 @@ Mac                      16 hrs 22 mins      ███████████�
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/assets/images/icon.png" /></div>
 </div>
