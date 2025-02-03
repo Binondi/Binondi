@@ -46,7 +46,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
 
 <p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
@@ -59,21 +59,25 @@
 
 <img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
 
-- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/) 📌 2024-03-04 —— 2024-08-28
+- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/) 📌 2024
   - Position: Full Stack Developer
   - Responsibilities: development and maintenance
+  - TechStack: HTML, CSS, JS, PHP, MySQL
 
 <img align="right" width="88" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png](https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png)" />
 
-- [Guangzhou Tuhui Information Technology Co., Ltd.](https://www.tuhuimap.com/) 📌 2023-06-19 —— 2024-01-19
-  - Position: Web Frontend Developer
+- [My Personal Portfolio](https://aoudumbar.netlify.app/) 📌 2025
+  - Position: Mern Developer
   - Responsibilities: Various tasks
+  - Techstack: MERN
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
 
-- [NIO Technology (Anhui) Co., Ltd.](https://www.nio.cn/) 📌 2023-02-20 —— 2023-05-12
-  - Position: Web Frontend Development Intern
-  - Responsibilities: Participated in the development and maintenance of the DataSight platform
+- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/) 📌 2023
+  - Position: Website Developer
+  - Responsibilities: Creating a fully responsive website with backend and frontend
+  - Techstack: HTML, CSS, JS, PHP, MYSQL
+
 
 </td></tr>
 
