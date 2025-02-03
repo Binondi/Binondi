@@ -1,43 +1,41 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- dynamic typing effect -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Xiao Sun wishes you a great day!&center=true&size=27" />
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
+  <!-- knock code pictures -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
+  <!-- for beauty -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
+  <!-- profile logo -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
+    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
+    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-WeChat-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
     <!-- wakatime -->    
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!-- Snake Code Contribution Map -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
 </div>
 
 #  🙋 Hello
@@ -50,11 +48,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
+<p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
+<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
+<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 </td></tr>
 
 <tr><td>
@@ -63,24 +59,21 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
+- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/) 📌 2024-03-04 —— 2024-08-28
+  - Position: Full Stack Developer
+  - Responsibilities: development and maintenance
 
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
+<img align="right" width="88" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png](https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png)" />
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
+- [Guangzhou Tuhui Information Technology Co., Ltd.](https://www.tuhuimap.com/) 📌 2023-06-19 —— 2024-01-19
+  - Position: Web Frontend Developer
+  - Responsibilities: Various tasks
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+- [NIO Technology (Anhui) Co., Ltd.](https://www.nio.cn/) 📌 2023-02-20 —— 2023-05-12
+  - Position: Web Frontend Development Intern
+  - Responsibilities: Participated in the development and maintenance of the DataSight platform
 
 </td></tr>
 
@@ -91,12 +84,16 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
+- Mar 18 - [Kunlun Nest "Crazy Saturday", No One Is an Island](https://blog.guoqi.dev/posts/kunlunchao/)
+- Mar 10 - [Hello, Beijing! Hello, Principle Technology! Everything is the best arrangement!](https://blog.guoqi.dev/posts/yuanze/)
+- Feb 20 - [Keep Going, The Future is Bright, Say Goodbye to 2023!](https://blog.guoqi.dev/posts/2023/)
+- Feb 16 - [Tibet Trip | Youth Has No Price, Take the Train to Lhasa!](https://blog.guoqi.dev/posts/xizang/)
+- Jan 03 - [Zhuhai Trip | Feel the Wind, Listen to the Sea, Touch and Reach](https://blog.guoqi.dev/posts/zhuhai/)
 <!-- feed end -->
+
+</td></tr>
+
+</table>
 
 </td></tr>
 
