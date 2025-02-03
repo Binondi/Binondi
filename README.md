@@ -1,9 +1,10 @@
 <div align="left">
-  <img height="300" src="https://i.ibb.co/9HfkkY4v/34324.png"  />
+  <img height="300" src="https://i.ibb.co/DDrHxHDF/og.png"  />
 </div>
 
 ###
 
+<h2>Hi 👋, I'm Aoudumber</h2>
 <h3>who loves programming</h3>
 
 - 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
