@@ -1,20 +1,18 @@
 <div align="left">
-  <img height="300" src="https://i.ibb.co/rRq0wqLb/1212132.png"  />
+  <img height="300" width="100%" src="https://i.ibb.co/C3gjtn11/1000469347.jpg"  />
 </div>
 
 ###
 
 <h3>who loves programming</h3>
 
-- 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
+- 🔭 I'm currently working as a **Freelancer**
 
-- 🌱 I'm currently learning **Next.js**
+- 🌱 I'm currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://aoudumber.netlify.app](https://aoudumber.netlify.app)
+- 💬 Ask me about **Android, XML, Kotlin, Java (basic)**
 
-- 💬 Ask me about **react, next.js, node.js**
-
-- 📫 How to reach me **aoudumber69@gmail.com**
+- 📫 How to reach me **borthakurbinondi@gmail.com**
 
 <h3>Languages and Tools:</h3>
 
@@ -24,14 +22,16 @@
 
 <br clear="both">
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase&theme=light)](https://skillicons.dev)
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="XML logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
