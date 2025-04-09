@@ -22,8 +22,6 @@
 
 <br clear="both">
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase&theme=light)](https://skillicons.dev)
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
