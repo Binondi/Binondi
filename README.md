@@ -46,8 +46,6 @@
   <div style="background-color:black;color:white;padding:40px">
     <a href="https://www.instagram.com/_b_borthakur/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
     <a href="https://www.youtube.com/@binondi_borthakur"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@aoudumberbade"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
 
 
   <!-- Snake Code Contribution Map -->
@@ -65,37 +63,39 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
+<img align="right" width="88" src="https://i.ibb.co/vxRmzSZk/1000266017.jpg" />
 
-<p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
-<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
-<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp;Hi, I’m Binondi Borthakur. I’m an Android Developer with a deep passion for building intuitive, efficient, and impactful
+  mobile applications. I enjoy working with modern tools like Jetpack Compose, Firebase, and Retrofit to create seamless user experiences.
+Beyond coding, I love exploring new technologies, blogging about what I learn, and continuously improving my craft.
+My goal is to become an exceptional developer by writing clean, maintainable code and contributing to apps that make a difference.</p>
+<br>
 </td></tr>
 
 <tr><td>
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/Binondi/Calculator-Hide-Files/refs/heads/master/app/src/main/ic_launcher-playstore.png" />
 
-- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2024
-  - Position: Full Stack Developer
-  - Responsibilities: development and maintenance
-  - TechStack: HTML, CSS, JS, PHP, MySQL
+- [Calculator Hide File - Open Souce Project](https://github.com/Binondi/Calculator-Hide-Files)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2025
+  - Position: Developer
+  - Responsibilities: Develop UI/UX and Maintanance
+  - Techstack: Kotlin, XML, Firebase
+ 
+<img align="right" width="88" src="https://raw.githubusercontent.com/Binondi/Quizy-Bharat/refs/heads/master/app/src/main/ic_launcher-playstore.png" />
 
-<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
+- [Quizy Bharat - Quiz App](https://github.com/Binondi/Quizy-Bharat)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2024
+  - Position: Developer
+  - Responsibilities: Development and Maintenance
+  - Techstack: Kotlin, XML, Firebase
 
-- [My Personal Portfolio](https://aoudumbar.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
-  - Position: Mern Developer
-  - Responsibilities: Various tasks
-  - Techstack: MERN
+<img align="right" width="88" src="https://raw.githubusercontent.com/Binondi/SplashZone/refs/heads/main/app/src/main/ic_launcher-playstore.png" />
 
-<img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
-
-- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
-  - Position: Website Developer
-  - Responsibilities: Creating a fully responsive website with backend and frontend
-  - Techstack: HTML, CSS, JS, PHP, MYSQL
+- [SplashZone - Wallpaper App](https://github.com/Binondi/SplashZone)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
+  - Position: Developer
+  - Responsibilities: Development and Maintenance
+  - TechStack: Kotlin, XML, Firebase
 
 
 </td></tr>
