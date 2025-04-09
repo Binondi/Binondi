@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="300" width="100%" src="https://i.ibb.co/C3gjtn11/1000469347.jpg"  />
+  <img height="auto" width="100%" src="https://i.ibb.co/C3gjtn11/1000469347.jpg"  />
 </div>
 
 ###
@@ -44,12 +44,8 @@
 
   <!-- profile logo -->
   <div style="background-color:black;color:white;padding:40px">
-    <a href="https://www.instagram.com/aoudumbersbade/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
-    <a href="https://twitter.com/aoudumberbade"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@toxicprogrammer69"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
-    <a href="https://aoudumbar.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
+    <a href="https://www.instagram.com/_b_borthakur/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
+    <a href="https://www.youtube.com/@binondi_borthakur"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
     <!-- wakatime -->    
     <a href="https://wakatime.com/@aoudumberbade"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
 
